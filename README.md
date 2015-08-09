@@ -12,7 +12,7 @@ This project is used to monitor the redis cluster state.
 ## Monitor Parameters
 
 - static state
-- 
+```shell
 % keyspace_hits
 
 % expired_keys
@@ -76,7 +76,7 @@ This project is used to monitor the redis cluster state.
 % ALL
 
 % uptime_in_days
-
+```
 
 - dynamic static
 
