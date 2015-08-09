@@ -13,7 +13,9 @@ This project is used to monitor the redis cluster state.
 
 - static state
 % keyspace_hits
+
 % expired_keys
+
 % multiplexing_api
 % total_commands_processed
 % redis_version
