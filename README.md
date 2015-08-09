@@ -79,7 +79,7 @@ This project is used to monitor the redis cluster state.
 ```
 
 - dynamic static
-
+```shell
 % total_commands_processed
 
 % last_save_time
@@ -107,4 +107,4 @@ This project is used to monitor the redis cluster state.
 % used_memory
 
 % used_memory_rss
-
+```
